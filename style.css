@@ -1,0 +1,28 @@
+section{
+    background-color: antiquewhite;
+    align-items: center;
+    text-align: center;
+    border-radius: 15px;
+    height: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(173, 144, 108);
+}
+
+p#P{
+   padding: 15px;
+}
+
+select{
+    padding: 8px;
+    margin-bottom: 15px;
+}
